@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://raza:optiplex@cluster0.44qrl.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "eyJhbGciOiJIUzI1NiJ9.eyJSb2xlIjoiQWRtaW4iLCJJc3N1ZXIiOiJJc3N1ZXIiLCJVc2VybmFtZSI6IkphdmFJblVzZSIsImV4cCI6MTY0MzYyOTU2MywiaWF0IjoxNjQzNjI5NTYzfQ.ue5FHCNJ06ajjUKsB6Fr9IJFR2Zvv5ozR1FIgRTqyOc"
+}

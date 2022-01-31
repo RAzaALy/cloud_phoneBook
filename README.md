@@ -53,8 +53,5 @@ You need to setup your mongo database connection string in "config/default.json"
 ## Author
 
 <blockquote>
-Mahmudul alam
+RAza ALy
 Email: expelmahmud@gmail.com
-</blockquote>
-
-========Thank You !!!=========
